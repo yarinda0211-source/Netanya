@@ -1,0 +1,16 @@
+{
+  "selectedDirs": [
+    "ERLC",
+    "בוט דרופ",
+    "בוט וויס",
+    "בוט נתניה",
+    "בוט פריזון",
+    "בוט שיחה"
+  ],
+  "allowedFiles": ["index.js", "bot.js", "member-counter-voice.js"],
+  "ignoreDirs": ["node_modules", "libs", "package", "__tests__"],
+  "autoRestart": true,
+  "restartDelay": 3000,
+  "maxRetries": 5,
+  "statusInterval": 10000
+}
