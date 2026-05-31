@@ -7,9 +7,9 @@ const { Client, GatewayIntentBits } = require("discord.js");
 // ================= CONFIG =================
 const config = require("./config.json");
 
-const baseDir = process.env.BASE_DIR;
-const TOKEN = process.env.DISCORD_TOKEN;
-const OWNER_ID = process.env.OWNER_ID;
+DISCORD_TOKEN="MTQ4MTYxMDE0MDY5NTEzNDM1Mg.GdUlwy.eXeyuOIEdlo3l_YZQ2AMQkSUDEEwAQoHywzR3A"
+OWNER_ID="1033361658682277959"
+BASE_DIR="C:/Users/USER/Downloads/בוט של נתניה סיטי"
 
 // ================= STATE =================
 const processes = new Map();
